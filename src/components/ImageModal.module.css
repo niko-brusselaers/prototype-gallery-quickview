@@ -1,0 +1,43 @@
+.previewContainer{
+    width: 20em;
+    height: 20em;
+    border: 1px solid black;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.previewContainer img{
+    width: 70%;
+    height: 70%;
+}
+
+.hiddenText{
+    display: none;
+    font-size: 10pt;
+}
+
+.previewContainer:hover .hiddenText{
+    display: block;
+}
+
+.modalContainer{
+    position: absolute;
+    top: 20vh;
+    bottom: 20vh;
+    left: 20vw;
+    right: 20vw;
+    width: 60vw;
+    height: 50vh;
+    border: solid;
+    padding: 3em 2em;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.modalContainer img{
+    width: 70%;
+    height: 70%;
+}

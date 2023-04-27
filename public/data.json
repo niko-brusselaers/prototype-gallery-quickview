@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "image": "https://fastly.picsum.photos/id/16/2500/1667.jpg?hmac=uAkZwYc5phCRNFTrV_prJ_0rP0EdwJaZ4ctje2bY7aE",
+      "title": "Beach Vacation",
+      "description": "Escape to a tropical paradise, and relax on pristine beaches with crystal clear waters. Enjoy delicious food, exciting water sports, and breathtaking sunsets."
+    },
+    {
+      "image": "https://fastly.picsum.photos/id/11/2500/1667.jpg?hmac=xxjFJtAPgshYkysU_aqx2sZir-kIOjNR9vx0te7GycQ",
+      "title": "Mountain Adventure",
+      "description": "Experience the thrill of climbing majestic peaks, exploring hidden valleys, and discovering stunning vistas. Enjoy hiking, camping, and wildlife watching in beautiful natural landscapes."
+    },
+    {
+      "image": "https://fastly.picsum.photos/id/57/2448/3264.jpg?hmac=ewraXYesC6HuSEAJsg3Q80bXd1GyJTxekI05Xt9YjfQ",
+      "title": "City Getaway",
+      "description": "Explore vibrant urban centers, discover cultural landmarks, and indulge in world-class shopping and dining. Enjoy museums, galleries, theaters, and nightlife in bustling cities."
+    }
+  ]
+}
